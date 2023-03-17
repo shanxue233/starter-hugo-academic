@@ -3,12 +3,15 @@
 title: Shan Xue 
 
 # Full name (for SEO)
-first_name: Shan
-last_name: Xue
+# first_name: Shan
+# last_name: Xue
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
+
+# Is this the primary user of the site?
+superuser: true
 
 # Role/position/tagline
 role: Phd Candidate
@@ -16,7 +19,7 @@ role: Phd Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Carnegie Mellon University
-    url: https://www.cmu.edu/
+    url: "https://www.cmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest includes machine learning, cloud computing, and computational chemistry.
@@ -24,9 +27,8 @@ bio: My research interest includes machine learning, cloud computing, and comput
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Natural Language Processing(NLP)
+  - Natural Language Processing
   - Computational Chemistry
-  - Cheminformatics
 
 # Education to show in About widget
 education:
@@ -66,7 +68,7 @@ social:
   #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: " "
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

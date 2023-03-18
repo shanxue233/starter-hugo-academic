@@ -1,6 +1,6 @@
 ---
 # Generate Wowchemy CMS
-type: wowchemycms
+type: shanxue233
 private: true
 outputs:
   - wowchemycms_config

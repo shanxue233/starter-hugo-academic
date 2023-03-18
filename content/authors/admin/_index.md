@@ -19,29 +19,31 @@ role: Phd Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Carnegie Mellon University
-    url: "https://www.cmu.edu/"
+    url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest includes machine learning, cloud computing, and computational chemistry.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Deep Learning
   - Natural Language Processing
+  - Generative Models
   - Computational Chemistry
+  - Spectroscopy
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Chemistry
-      institution: Carnegie Mellon University, Chemistry Department
-      year: August, 2023 (expected)
+      institution: Carnegie Mellon University
+      year: 2023-08 (expected)
     - course: M.S in Machine Learning
-      institution: Carnegie Mellon University, Machine Learning Department
-      year: December, 2022
+      institution: Carnegie Mellon University
+      year: 2022-12
     - course: B.S. in Chemistry
-      institution: Nanjing University, School of Chemistry and Chemical Engineering
-      year: June, 2018
+      institution: Nanjing University
+      year: 2018-06
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,7 +70,7 @@ social:
   #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: " "
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

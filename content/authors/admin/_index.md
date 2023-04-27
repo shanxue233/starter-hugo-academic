@@ -22,7 +22,7 @@ organizations:
     url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest includes machine learning, cloud computing, and computational chemistry.
+bio: My research interest includes machine learning, computational chemistry and Ai4science.
 
 # Interests to show in About widget
 interests:
@@ -75,6 +75,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a fifth-year PhD student at Carnegie Mellon University, seeking opportunities in the field as a Machine Learning Engineer, Applied Scientist, Research Scientist, or Data Scientist, with availability to start as early as August 2023.
 
-Enthusiastic and experienced PhD candidate with a strong background in machine learning, cloud computing, and computational research, seeking employment opportunities as a Machine Learning Engineer, Software Engineer, Applied Scientist, Research Scientist, or Data Scientist. Available to start as early as August 2023.
+My research focus is applying machine learning, computational chemistry, and bioinorganic spectroscopy to investigate mechanisms for metalloenzymes. I have gained proficiency in a wide range of machine learning techniques, including deep learning, natural language processing, and computer vision. Additionally, I have experience with Git and cloud computing, and have gained extensive experience using various programming languages and platforms such as Python, C, TensorFlow, PyTorch, Scikit Learn, Pandas, AWS, GCP, Azure and Git.
 {style="text-align: justify;"}

@@ -27,12 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Optimal Control
-      tag: Optimal Control
+    - name: Metalloenzymes
+      tag: Metalloenzymes
     - name: Reinforcement Learning
       tag: Reinforcement Learning
-    - name: Legged Robot
-      tag: Legged Robot
+    - name: DFT
+      tag: DFT
+    - name: MD
+      tag: MD 
     - name: Other
       tag: Demo
 

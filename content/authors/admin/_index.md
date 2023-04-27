@@ -26,11 +26,11 @@ bio: My research interest includes machine learning, computational chemistry and
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
+  - AI4science
   - Natural Language Processing
   - Generative Models
   - Computational Chemistry
-  - Spectroscopy
+  - Advanced Spectroscopy
 
 # Education to show in About widget
 education:
@@ -75,7 +75,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a fifth-year PhD student at Carnegie Mellon University, seeking opportunities in the field as a Machine Learning Engineer, Applied Scientist, Research Scientist, or Data Scientist, with availability to start as early as August 2023.
+I am currently a fifth-year PhD candidate at Carnegie Mellon University, actively pursuing opportunities as a Research Scientist, Applied Scientist, Machine Learning Engineer, or Data Scientist, and am available to commence work as early as September 2023.
 
-My research focus is applying machine learning, computational chemistry, and bioinorganic spectroscopy to investigate mechanisms for metalloenzymes. I have gained proficiency in a wide range of machine learning techniques, including deep learning, natural language processing, and computer vision. Additionally, I have experience with Git and cloud computing, and have gained extensive experience using various programming languages and platforms such as Python, C, TensorFlow, PyTorch, Scikit Learn, Pandas, AWS, GCP, Azure and Git.
+My research interests center on the application of machine learning, computational chemistry, and bioinorganic spectroscopy to explore the mechanisms of metalloenzymes. I have a diverse scientific background that includes general chemistry, biophysics, kinetics, and optics. My computational proficiency extends to a wide range of machine learning techniques, including deep learning, natural language processing, and computer vision. In addition, I possess hands-on experience with Git and cloud computing, and have gained extensive proficiency in various programming languages and platforms such as Python, C, TensorFlow, PyTorch, Scikit Learn, Pandas, AWS, GCP, Azure, and Git.
 {style="text-align: justify;"}

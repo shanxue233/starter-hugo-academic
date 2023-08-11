@@ -59,7 +59,7 @@ experience:
   - title: Research Intern
     company: University of Western Australia, Optical and Biomedical Engineering Lab
     company_url: 'https://obel.ee.uwa.edu.au/'
-    company_logo: uwa
+    company_logo: uwa-h
     location: Perth, AU
     date_start: '2017-07-15'
     date_end: '2017-08-15'

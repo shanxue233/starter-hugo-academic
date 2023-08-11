@@ -75,7 +75,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a fifth-year PhD candidate at Carnegie Mellon University, actively pursuing opportunities as a Research Scientist, Applied Scientist, Machine Learning Engineer, or Data Scientist, and am available to commence work as early as September 2023.
+I am currently a fifth-year PhD candidate at Carnegie Mellon University, actively pursuing opportunities as a Research Scientist, Applied Scientist, Machine Learning Engineer, or Data Scientist, and am available to commence work as early as October 2023.
 
-My research interests center on the application of machine learning, computational chemistry, and bioinorganic spectroscopy to explore the mechanisms of metalloenzymes. I have a diverse scientific background that includes general chemistry, biophysics, kinetics, and optics. My computational proficiency extends to a wide range of machine learning techniques, including deep learning, natural language processing, and computer vision. In addition, I possess hands-on experience with Git and cloud computing, and have gained extensive proficiency in various programming languages and platforms such as Python, C, TensorFlow, PyTorch, Scikit Learn, Pandas, AWS, GCP, Azure, and Git.
+My research endeavors are deeply rooted in AI4Science, specifically in harnessing machine learning for data-driven tasks spanning chemistry, biophysics, material discovery, and optics. Throughout my doctoral studies, I've amassed comprehensive experience in deciphering mechanisms within enzyme and synthetic catalyst systems. I've also had the privilege of interning with the AI4Science team at Microsoft Research, where I delved into the subject of Machine Learning Force Fields.
+
+Technically, I am adept at a plethora of machine learning methodologies, encompassing deep learning, natural language processing, and computer vision. Furthermore, I am proficient with tools like Git and platforms related to cloud computing. I've honed skills in an array of programming languages and platforms, including but not limited to Python, C, TensorFlow, PyTorch, Scikit Learn, Pandas, AWS, GCP, Azure, and Git.
 {style="text-align: justify;"}

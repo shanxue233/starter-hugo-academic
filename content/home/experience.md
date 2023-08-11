@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: Microsoft Research (Ai4Science)
+    company: Microsoft Research (AI4Science Team)
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/'
     company_logo: msr
     location: Redmond, WA

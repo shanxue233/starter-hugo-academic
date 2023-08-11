@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Research
+title: Projects
 subtitle: ''
 
 content:
@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: AI4Science
+      tag: AI4Science
     - name: Metalloenzymes
       tag: Metalloenzymes
-    - name: Reinforcement Learning
-      tag: Reinforcement Learning
     - name: DFT
       tag: DFT
     - name: MD

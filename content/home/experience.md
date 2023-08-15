@@ -47,7 +47,7 @@ experience:
     company: Nanjing University, State Key laboratory of Analytical Chemistry for Life Science
     company_url: 'https://sklac.nju.edu.cn/main.htm'
     company_logo: nju
-    location: Pittsburgh, PA
+    location: Nanjing, CN
     date_start: '2016-09-15'
     date_end: '2018-07-01'
     description: |2-
